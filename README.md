@@ -41,3 +41,11 @@
     ]
     Each cell updates according to the number of live neighbors. For instance, [0][0] stays dead (2 live neighbors), [0][1] stays alive (2 live neighbors), [0][2] dies (3 live neighbors), and so on.
     ```
+- 14/12/2025 -> Capitalize It
+    ```
+    Given a string title, return a new string formatted in title case using the following rules:
+
+        Capitalize the first letter of each word.
+        Make all other letters in each word lowercase.
+        Words are always separated by a single space.
+    ```
