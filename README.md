@@ -82,3 +82,17 @@
 
     Note: The console may not display HTML tags in strings when logging messages. Check the browser console to see logs with tags included.
     ```
+- 18/12/2025 -> Checkboard
+    ```
+    Given an array with two numbers, the first being the number of rows and the second being the number of columns, return a matrix (an array of arrays) filled with "X" and "O" characters of the given size.
+
+    The characters should alternate like a checkerboard.
+    The top-left cell must always be "X".
+    For example, given [3, 3], return:
+
+    [
+    ["X", "O", "X"],
+    ["O", "X", "O"],
+    ["X", "O", "X"]
+    ]
+    ```
