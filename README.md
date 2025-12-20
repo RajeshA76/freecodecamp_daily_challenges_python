@@ -96,7 +96,7 @@
     ["X", "O", "X"]
     ]
     ```
-- 19/12/2025 Pairwise
+- 19/12/2025 -> Pairwise
     ```
     Given an array of integers and a target number, find all pairs of elements in the array whose values add up to the target and return the sum of their indices.
 
@@ -105,4 +105,11 @@
     2 and 8 (2 + 8 = 10), whose indices are 0 and 4
     4 and 6 (4 + 6 = 10), whose indices are 2 and 3
     Add all the indices together to get a return value of 9.
+    ```
+- 20/12/2025 -> Purge Most Recent
+    ```
+    Given an array of values, remove all occurrences of the most frequently occurring element and return the resulting array.
+
+    If multiple values are tied for most frequent, remove all of them.
+    Do not change any of the other elements or their order.
     ```
