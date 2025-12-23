@@ -135,3 +135,21 @@
     90	0
     If the given latitude does not exactly match a table entry, use the value of the closest latitude.
     ```
+- 22/12/2025 -> Traveling Shopper
+    ```
+    Given an amount of money you have, and an array of items you want to buy, determine how many of them you can afford.
+
+    The given amount will be in the format ["Amount", "Currency Code"]. For example: ["150.00", "USD"] or ["6000", "JPY"].
+    Each array item you want to purchase will be in the same format.
+    Use the following exchange rates to convert values:
+
+    Currency	1 Unit Equals
+    USD	1.00 USD
+    EUR	1.10 USD
+    GBP	1.25 USD
+    JPY	0.0070 USD
+    CAD	0.75 USD
+    
+    If you can afford all the items in the list, return "Buy them all!".
+    Otherwise, return "Buy the first X items.", where X is the number of items you can afford when purchased in the order given.
+    ```
