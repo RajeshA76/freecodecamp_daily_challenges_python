@@ -153,6 +153,17 @@
     If you can afford all the items in the list, return "Buy them all!".
     Otherwise, return "Buy the first X items.", where X is the number of items you can afford when purchased in the order given.
     ```
+- 23/12/2025 -> Re: Fwd: Fw: Count
+    ```
+    Given a string representing the subject line of an email, determine how many times the email has been forwarded or replied to.
+
+    For simplicity, consider an email forwarded or replied to if the string contains any of the following markers (case-insensitive):
+
+    "fw:"
+    "fwd:"
+    "re:"
+    Return the total number of occurrences of these markers.
+    ```
 - 24/12/2025 -> Markdown Image Parser
     ```
     Given a string of an image in Markdown, return the equivalent HTML string.
