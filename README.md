@@ -179,3 +179,27 @@
     Make sure the tag, order of attributes, spacing, and quote usage is the same as above.
     Note: The console may not display HTML tags in strings when logging messages — check the browser console to see logs with tags included.
     ```
+- 26/12/25 -> Sum Of Divisors
+    ```
+    Given a positive integer, return the sum of all its divisors.
+
+    A divisor is any integer that divides the number evenly (the remainder is 0).
+    Only count each divisor once.
+    For example, given 6, return 12 because the divisors of 6 are 1, 2, 3, and 6, and the sum of those is 12.
+
+    ```
+- 27/12/2025 -> Rock,Paper and Scissors
+    ```
+    Given two strings, the first representing Player 1 and the second representing Player 2, determine the winner of a match of Rock, Paper, Scissors.
+
+    The input strings will always be "Rock", "Paper", or "Scissors".
+    "Rock" beats "Scissors".
+    "Paper" beats "Rock".
+    "Scissors" beats "Paper".
+    Return:
+
+    "Player 1 wins" if Player 1 wins.
+    "Player 2 wins" if Player 2 wins.
+    "Tie" if both players choose the same option.
+
+    ```
