@@ -230,6 +230,12 @@
     Do not include decimals in the return number.
 
     ```
+- 13/01/2026 -> Odd or Even?
+    ```
+    Odd or Even?
+    Given a positive integer, return "Odd" if it's an odd number, and "Even" if it's even.
+    ```
+
 - 19/01/2026 -> Energy Consumption
     ```
     Given the number of Calories burned during a workout, and the number of watt-hours used by your electronic devices during that workout, determine which one used more energy.
