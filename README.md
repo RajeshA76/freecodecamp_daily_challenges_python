@@ -230,6 +230,17 @@
     Do not include decimals in the return number.
 
     ```
+
+- 20/01/2026 -> Consonant Case
+    ```
+    Given a string representing a variable name, convert it to consonant case using the following rules:
+
+    All consonants should be converted to uppercase.
+    All vowels (a, e, i, o, u in any case) should be converted to lowercase.
+    All hyphens (-) should be converted to underscores (_).
+
+    ```
+
 - 21/01/2026 -> Markdown Inline Code Parser
     ```
     Given a string of Markdown that includes one or more inline code blocks, return the equivalent HTML string.
@@ -242,7 +253,7 @@
 
     Note: The console may not display HTML tags in strings when logging messages. Check the browser console to see logs with tags included.
     ```
-    
+
 - 22/01/2026 -> Class Average
     ```
     Given an array of exam scores (numbers), return the average score in form of a letter grade according to the following chart:
